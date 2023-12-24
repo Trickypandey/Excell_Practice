@@ -34,7 +34,7 @@ int main() {
         // Process user choice
         switch (choice) {
             case 1: {
-                // Add Cell test
+                // Add Cell test2
                 spreadsheet.addCellFromUserInput();
                 break;
             }
