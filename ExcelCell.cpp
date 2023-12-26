@@ -15,7 +15,7 @@ double ExcelCell::getContentDouble() const {
     if (arthematicOperation) {
         return std::stod(content);
     } else {
-        return 0.0; // Return 0.0 if not an arithmetic operation
+        return 0.0; 
     }
 }
 
